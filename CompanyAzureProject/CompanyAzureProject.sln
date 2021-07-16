@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyAzureProject", "CompanyAzureProject\CompanyAzureProject.csproj", "{C6F906E2-E98D-4359-80D4-387D5D22FF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionHaveEnityFrameWorks", "FunctionHaveEnityFrameWorks\FunctionHaveEnityFrameWorks.csproj", "{BD2D5A2B-9C8A-4BE2-A66E-6F9FF38BBE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F906E2-E98D-4359-80D4-387D5D22FF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F906E2-E98D-4359-80D4-387D5D22FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F906E2-E98D-4359-80D4-387D5D22FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F906E2-E98D-4359-80D4-387D5D22FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2D5A2B-9C8A-4BE2-A66E-6F9FF38BBE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2D5A2B-9C8A-4BE2-A66E-6F9FF38BBE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2D5A2B-9C8A-4BE2-A66E-6F9FF38BBE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2D5A2B-9C8A-4BE2-A66E-6F9FF38BBE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E07E0F-4106-4ABE-B06C-3964B2EB39D4}
+	EndGlobalSection
+EndGlobal
